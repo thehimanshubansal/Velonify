@@ -89,8 +89,14 @@ MONGO_URI=<Your MongoDB Connection String>
 Here are some images and videos showcasing the working prototype:
 
 #### 🖥️ **Streamlit Dashboard**
-![Dashboard](images/dashboard_screenshot.png)
+
 *Displays real-time disaster information in an interactive format.*
+
+![volent1](https://github.com/user-attachments/assets/80f06f1d-0d53-4252-8c3b-baaa2ae8cc7f)
+![volent2](https://github.com/user-attachments/assets/06d7bf3c-5295-44ab-bd10-0e46991bc773)
+![volent3](https://github.com/user-attachments/assets/fff8dec7-da61-4e51-9f35-a439da28ce24)
+![volent4](https://github.com/user-attachments/assets/cd027886-4635-4a8d-abcf-f8c12c6c1399)
+![volent5](https://github.com/user-attachments/assets/69f40341-7796-46de-a3ce-587d8e42efe4)
 
 ---
 
