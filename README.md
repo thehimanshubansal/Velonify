@@ -103,8 +103,9 @@ Here are some images and videos showcasing the working prototype:
 ---
 
 #### 🎥 **Demo Video**
-[▶️ Watch the Platform in Action](https://youtu.be/8emIP4uAm80)
-*Click the link to see the system in operation.*
+
+[▶️ Watch the Platform in Action](https://youtu.be/Jgyuki1mTn4)
+- Click the link to see the system in operation.
 ---
 
 ### ⚒️ **Folder Structure**
