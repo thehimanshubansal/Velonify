@@ -20,6 +20,16 @@
 - **APIs:** Google News API
 
 ---
+### 🚫 **Deployment Status**
+Currently, the project is not deployed due to the following reasons:
+- 🛠️ **Ongoing Development:** The platform is still under active development, with new features and optimizations being added.
+- ⚙️ **Infrastructure Setup:** The required cloud infrastructure (such as MongoDB Atlas, AWS, or Heroku) is yet to be configured for production deployment.
+- 🔒 **Security and Testing:** Additional security measures and testing are needed before the platform goes live.
+- 💰 **Resource Constraints:** Lack of sufficient server resources and funding for stable deployment.
+
+✅ Future plans include deploying the platform on a cloud service for public access.
+
+---
 
 ## 🚀 **Getting Started**
 
