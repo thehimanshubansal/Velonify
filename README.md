@@ -1,4 +1,6 @@
 # 🚀 Volentify
+![Volentify](https://github.com/user-attachments/assets/52696936-2fdf-4d0f-9f4b-16f73f3db03c)
+
 
 **Volentify** is a real-time disaster information aggregation platform that collects, categorizes, and displays disaster-related data from verified news portal. It offers a user-friendly dashboard to help disaster response agencies, and it's registered users make informed decisions quickly.
 
