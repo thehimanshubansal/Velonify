@@ -75,14 +75,18 @@ Create a `.env` file in the root directory with the following variables:
 ```plaintext
 MONGO_URI=<Your MongoDB Connection String>
 ```
-**📷 Working Prototype**
+### 📷 **Working Prototype**
 Here are some images and videos showcasing the working prototype:
 
-Streamlit dashboard displaying real-time disaster information.
+#### 🖥️ **Streamlit Dashboard**
+![Dashboard](images/dashboard_screenshot.png)
+*Displays real-time disaster information in an interactive format.*
+
 ---
 
-▶️ Demo Video
-Watch the platform in action.
+#### 🎥 **Demo Video**
+[▶️ Watch the Platform in Action](videos/demo.mp4)
+*Click the link to see the system in operation.*
 ---
 
 ### ⚒️ **Folder Structure**
