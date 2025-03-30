@@ -104,7 +104,7 @@ tenacity==9.0.0
 thinc==8.3.4
 tokenizers==0.15.2
 toml==0.10.2
-torch==2.6.0+cpu
+torch==2.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 torchaudio==2.6.0+cpu
 torchvision==0.21.0+cpu
 tornado==6.4.2
