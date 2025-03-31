@@ -1,10 +1,20 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from dotenv import load_dotenv
+import os
+
+# Load environment variables
+load_dotenv()
+
+# Email Connection for G-Mail SMTP
+SENDER_EMAIL = os.getenv("SENDER_EMAIL")
+SENDER_EMAIL_PASSWORD = os.getenv("SENDER_EMAIL_PASSWORD")
+
 
 def send_email(to_email, subject, message):
-    sender_email = "gyanthegreat05@gmail.com"
-    sender_password = "xmyn gjpz srde zhta"
+    sender_email = SENDER_EMAIL
+    sender_password = SENDER_EMAIL_PASSWORD
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
