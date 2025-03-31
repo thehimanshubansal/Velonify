@@ -15,6 +15,10 @@ import streamlit as st
 from db import disaster_collection
 from pymongo import MongoClient
 import alert,os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Fix for "RuntimeError: no running event loop" in Streamlit
 try:
@@ -25,9 +29,10 @@ except RuntimeError:
 # Load the spaCy English language model
 nlp = spacy.load("en_core_web_sm")
 
+# OPENCAGE API Connection
+OPENCAGE_API = os.getenv("OPENCAGE_API")
 
-
-OPENCAGE_API_KEY = "d417b701036946ddb48e34a35c389150"
+OPENCAGE_API_KEY = OPENCAGE_API
 geocoder = OpenCageGeocode(OPENCAGE_API_KEY)
 
 
