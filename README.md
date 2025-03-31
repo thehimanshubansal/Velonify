@@ -86,7 +86,14 @@ streamlit run main.py
 Create a `.env` file in the root directory with the following variables:
 ```plaintext
 MONGO_URI=<Your MongoDB Connection String>
+SENDER_EMAIL=<Your Sender Email ID>
+SENDER_EMAIL_PASSWORD=<Your Sender Email Password>
+OPENCAGE_API=<Your OpenCage API Key>
 ```
+✅ Make sure to add your actual credentials before running the project.
+
+---
+
 ### 📷 **Working Prototype**
 Here are some images and videos showcasing the working prototype:
 
